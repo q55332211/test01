@@ -1,2 +1,0 @@
-ssh-keygen -t rsa -C ‘744709409@qq.com’
-/c/Users/nice/.ssh/id_rsa
